@@ -1,5 +1,6 @@
 .wrapper {
     display: block;
+
 }
 .card1,
 .card2,
@@ -40,4 +41,17 @@
     display: flex;
     justify-content: space-between;
     width: 50%;
+}
+
+.button {
+    padding: 25px;
+    background-color: black;
+    color: chocolate;
+}
+.button:hover {
+    cursor: pointer;
+}
+.container__total {
+    font-weight: bold;
+    font-size: 28px;
 }
