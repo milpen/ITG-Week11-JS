@@ -45,8 +45,9 @@
 
 .button {
     padding: 25px;
-    background-color: black;
-    color: chocolate;
+    background-color:darkgoldenrod;
+    color: black;
+    font-weight: bold;
 }
 .button:hover {
     cursor: pointer;
