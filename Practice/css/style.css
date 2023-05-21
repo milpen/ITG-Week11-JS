@@ -1,9 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
 .cart {
     font-size: 28px;
 }
 
 .wrapper {
-    display: block;
+    max-width: 1278px;
 
 }
 .card1,
@@ -11,7 +15,6 @@
 .card3,
 .card4 {
     display: flex;
-    justify-content: center;
     max-width: 50%;
     height: 200px;
     border: 1px solid black;
